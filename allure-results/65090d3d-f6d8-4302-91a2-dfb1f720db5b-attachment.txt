@@ -1,0 +1,10 @@
+[]
+{ token: '69c2b4a4d6af939' }
+{
+  firstname: 'testers talk postman',
+  lastname: 'testers talk rest assured',
+  totalprice: 1000,
+  depositpaid: true,
+  bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+  additionalneeds: '{2}'
+}
